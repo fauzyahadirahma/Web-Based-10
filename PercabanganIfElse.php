@@ -1,0 +1,9 @@
+<?php
+
+$nilai = 100;
+if ($nilai >= 60) {
+	echo "Nilai Anda : $nilai. Selamat, Anda Telah Lulus!!";
+} else {
+	echo "Nilai Anda : $nilai. Sorry, Anda Tidak Lulus";
+}
+?>
